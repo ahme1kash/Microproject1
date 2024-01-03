@@ -11,7 +11,6 @@ body{
     margin-left:130px;
 }
 .header{
-    font-style:normal;
     font-weight:700;
     font-size:36px;
     color: #282828;
@@ -20,17 +19,20 @@ body{
 .about{
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 20px;
     color:#484848;
     width:495px;
     line-height: 32px;
+    height:81px;
+    font-family: inter;
 
 }
 .tag{
     font-style:normal;
     font-weight:800;
-    font-size:18px;
-    color:#282828
+    font-size:20px;
+    color:#282828;
+    margin-top:37px;
 }
 input{
     width:360px;
